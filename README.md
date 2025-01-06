@@ -8,10 +8,7 @@ This repository contains a collection of SQL scripts designed to perform various
 ## Table of Contents
 1. [Queries Overview](#queries-overview)
 2. [Database Schema](#database-schema)
-3. [How to Use](#how-to-use)
-4. [Queries](#queries)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Queries](#queries)
 
 ---
 
@@ -54,20 +51,6 @@ The queries assume the following tables and relationships:
 
 ---
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-
-2. Ensure you have a database management system (e.g., MySQL, PostgreSQL) installed.
-
-3. Set up the sample database with the schema described above.
-
-4. Execute the scripts in your SQL editor or terminal to test and analyze results.
-
----
 
 ## Queries
 Below is a summary of the included queries:
@@ -108,15 +91,7 @@ Below is a summary of the included queries:
 
 _For the full list of queries, refer to the individual files in the repository._
 
----
 
-## Contributing
-Contributions are welcome! If you have additional SQL queries or improvements to existing ones:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Submit a pull request with a clear description of your updates.
 
 
 

@@ -10,6 +10,7 @@ select name from students;
 
 select id from students;
 
+
 '''4. Вывести только имя пользователей'''
 
 select name from students;
@@ -157,3 +158,8 @@ order by created_on asc;
 
 select id, name, created_on from students 
 order by created_on desc;
+
+
+select id from students
+order by id desc
+limit 1;
